@@ -7,4 +7,5 @@ Wnioskiem tego projektu jak i spędzonego czasu nad nim, że jestem na dzień dz
 
 
 A tak wygląda cały proces zakupu jak i wysyłki!
-![image](https://github.com/user-attachments/assets/fbd359ae-bbc0-4565-8f37-5fd7cc698afc)
+![image](https://github.com/user-attachments/assets/3c90ec96-b716-4bfd-8ce2-b9d547688186)
+
